@@ -1,0 +1,10 @@
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\bin\Debug\Local IPs Extractor.exe.config
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\bin\Debug\Local IPs Extractor.exe
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\bin\Debug\Local IPs Extractor.pdb
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local IPs Extractor.csprojAssemblyReference.cache
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local_IPs_Extractor.Form1.resources
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local_IPs_Extractor.Properties.Resources.resources
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local IPs Extractor.csproj.GenerateResource.cache
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local IPs Extractor.csproj.CoreCompileInputs.cache
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local IPs Extractor.exe
+C:\Users\Mf4Tn\source\repos\Local IPs Extractor\Local IPs Extractor\obj\Debug\Local IPs Extractor.pdb
